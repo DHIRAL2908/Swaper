@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559461537 source:d:\programming\code-blocks\swaper\main.cpp
+	<iostream>
+	<windows.h>
+
